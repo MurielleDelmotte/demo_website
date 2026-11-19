@@ -1,0 +1,8 @@
+---
+title: "I. Chirurgie"
+engine: knitr
+params:
+  finess: ""
+---
+
+Taux de chirurgie ambulatoire de l'établissement `r params$finess`.

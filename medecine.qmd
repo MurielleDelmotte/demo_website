@@ -1,0 +1,8 @@
+---
+title: "II. Médecine"
+engine: knitr
+params:
+  finess: ""
+---
+
+Taux de médecine ambulatoire de l'établissement `r params$finess`.

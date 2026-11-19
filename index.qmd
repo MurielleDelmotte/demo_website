@@ -1,0 +1,7 @@
+---
+title: "Guide de lecture"
+params:
+  finess: ""
+---
+
+Rapport de l'établissement `r params$finess`.

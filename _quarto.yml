@@ -1,0 +1,8 @@
+project:
+  type: website
+
+website:
+  title: "Activité ambulatoire"
+  sidebar:
+    style: docked
+    search: false

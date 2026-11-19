@@ -1,0 +1,10 @@
+project:
+  render:
+    - index.qmd
+    - chirurgie.qmd
+
+website:
+  sidebar:
+    contents:
+      - index.qmd
+      - chirurgie.qmd
